@@ -29,4 +29,4 @@ python3 taskset.py
 python3 simulation.py
 ```
 
-# The project is still in progress."# LoadBalancing_BasedScheduling_OnMultiCoreSystems_ForMixedRealTimeTasks" 
+# The project is still in progress.
